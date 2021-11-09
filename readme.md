@@ -1,3 +1,3 @@
 # Binary Clock
 
-![screenshot](https://github.com/archistico/BinaryClock/blob/master/screenshot/binary_clock.png?raw=true) 
+![screenshot](https://github.com/archistico/BinaryClock/blob/main/screenshot/binary_clock.png?raw=true) 
